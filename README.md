@@ -64,23 +64,18 @@ To demonstrate:
 > Screenshots are taken from the browser output to show real rendering.
 
 ### Resume Header & About Section
-![Header and About](./screenshots/header-about.png)
 ![Header and About](./screenshots/header-about-preview.png)
 
 ### Skills and Experience Section
-![Skills](./screenshots/skill-exp.png)
 ![Skills](./screenshots/skills-exp-preview.png)
 
 ### Projects Section
-![Projects](./screenshots/project.png)
 ![Projects](./screenshots/project-ed-preview.png)
 
 ### Education Section
-![Education](./screenshots/education.png)
 ![Education](./screenshots/project-ed-preview.png)
 
 ### Contact and Footer Section
-![Contact](./screenshots/contact-footer.png)
 ![Contact](./screenshots/contact-footer-preview.png)
 ---
 
